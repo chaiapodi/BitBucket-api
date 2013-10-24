@@ -15,6 +15,7 @@ from issue import Issue
 from repository import Repository
 from service import Service
 from ssh import SSH
+from invitation import Invitation
 
 
 #  ========
